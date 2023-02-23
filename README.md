@@ -13,12 +13,6 @@ pip install -r requirements.txt
 
 Before running the bot, you will need to configure it with your desired parameters. This can be done by editing the config.py file in the root directory. Here you can set the target stocks, trading strategies, and other parameters.
 
-## Running the Bot
 
-To run the bot, simply execute the bot.py file in the root directory:
-
-Copy code
-python bot.py
-The bot will start executing trades based on the parameters specified in the config.py file.
 
 
